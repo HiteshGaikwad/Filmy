@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from "../utils/images/logo.png";
+import logo from "../images/logo.png";
 import { Link } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { updateMenu } from '../utils/menuSlice';

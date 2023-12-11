@@ -6,6 +6,7 @@ import Slider from 'react-slick';
 
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import Shimmer from './Shimmer';
 
 const Home = () => {
 
@@ -32,7 +33,7 @@ const Home = () => {
 
   return (
     <div className='w-screen sm:h-screen overflow-hidden relative '>
-       <Slider {...settings} ref={sliderRef}>
+        <Slider {...settings} ref={sliderRef}>
         {
             movies.map((movie)=>{
                 return (
