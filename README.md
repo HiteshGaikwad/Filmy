@@ -1,70 +1,45 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Project Overview:
+Developed a responsive full-stack application from scratch.
 
-## Available Scripts
+#Technology Stack:
 
-In the project directory, you can run:
+-Utilized React.js for front-end development, providing a dynamic and interactive user interface.
 
-### `npm start`
+-Implemented the back-end using Spring Boot, a Java-based framework, ensuring efficient server-side functionality.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-Employed MongoDB as the database to store and manage movie-related information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#Responsive Design:
+Ensured a responsive design for seamless user experience across various devices.
 
-### `npm test`
+#Front-end Features:
+Created a movie carousel feature using React, allowing users to visually browse through movie options.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#Back-end Functionality:
+Implemented server-side functionalities using Spring Boot, ensuring robust and secure back-end operations.
 
-### `npm run build`
+#Database Management:
+Utilized MongoDB to store and manage movie data efficiently.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#Interactive Movie Information:
+Implemented features allowing users to view detailed information about movies, including trailers.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#User Reviews:
+Integrated a review system, enabling users to add and view movie reviews.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#Technological Integration:
+Successfully integrated front-end and back-end components, ensuring seamless communication between the user interface and server-side operations.
 
-### `npm run eject`
+#Problem-Solving and Troubleshooting:
+Addressed challenges related to data management, user interactions, and system responsiveness.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#Collaboration and Teamwork:
+Worked collaboratively with a team to design, develop, and deploy the application.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#Version Control:
+Utilized version control systems (e.g., Git) for efficient code management and collaboration.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Project Deployment:
+Deployed the application to a live environment, making it accessible to users.
+Continuous Learning:
