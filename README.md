@@ -1,4 +1,4 @@
-Filmy Application (React | Tailwind | Spring Boot | MongoDB)
+# Filmy Application (React | Tailwind | Spring Boot | MongoDB)
 
 Developed a responsive full-stack application from the ground up, combining powerful technologies to create a dynamic and interactive movie platform. Key features of the project include:
 
