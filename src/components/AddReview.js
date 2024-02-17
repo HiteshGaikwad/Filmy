@@ -10,7 +10,7 @@ const AddReview = ({imdbId}) => {
 
     const addReview=async ()=>{
       if(review!==''){
-        const response = await axios.post("https://movies-api-production-03bc.up.railway.app/api/v1/reviews", { reviewBody: review, imdbId: imdbId });
+        const response = await axios.post("https://movies-api-hiteshgaikwad.vercel.app/api/v1/reviews", { reviewBody: review, imdbId: imdbId });
       dispatch(addReviews(review));
         setReview("");
       }
