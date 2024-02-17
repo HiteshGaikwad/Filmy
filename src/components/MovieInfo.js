@@ -26,7 +26,7 @@ const MovieInfo = () => {
     
       const getMovie= async ()=>{
         try{
-          const response= await axios.get(`https://movies-api-production-03bc.up.railway.app/api/v1/movies/${id}`);
+          const response= await axios.get(`https://movies-api-hiteshgaikwad.vercel.app/api/v1/movies/${id}`);
           
           setMovie(response.data);
           setImdbId(movie?.imdbId);
@@ -36,7 +36,7 @@ const MovieInfo = () => {
       }
 
       const getReviews= async ()=>{
-        const response= await fetch(`https://movies-api-production-03bc.up.railway.app/api/v1/reviews/${id}`);
+        const response= await fetch(`https://movies-api-hiteshgaikwad.vercel.app/api/v1/reviews/${id}`);
         
         const data= await response.json();
         setReviews(data);
