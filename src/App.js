@@ -20,7 +20,7 @@ function App() {
   const getMovies= async ()=>{
 
     try{
-      const response= await fetch("https://movies-api-production-03bc.up.railway.app/api/v1/movies");
+      const response= await fetch("https://movies-api-hiteshgaikwad.vercel.app/api/v1/movies");
       const data= await response.json();
 
       // console.log(data)
